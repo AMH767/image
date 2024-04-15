@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Au on the Periodic Table refers to which element?",
+      "correct_answer": "Gold",
+      "incorrect_answers": [
+        "Silver",
+        "Oxygen",
+        "Nickel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "How old is the universe?",
+      "correct_answer": "13.8 Billion Years",
+      "incorrect_answers": [
+        "4.5 Billion Years",
+        "7.9 Billion Years",
+        "16.2 Billion Years"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "About how old is Earth?",
+      "correct_answer": "4.5 Billion Years",
+      "incorrect_answers": [
+        "3.5 Billion Years",
+        "2.5 Billion Years",
+        "5.5 Billion Years"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Which chemical element has the lowest boiling point?",
+      "correct_answer": "Helium",
+      "incorrect_answers": [
+        "Hydrogen",
+        "Neon",
+        "Nitrogen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Which psychological term refers to the stress of holding contrasting beliefs?",
+      "correct_answer": "Cognitive Dissonance",
+      "incorrect_answers": [
+        "Flip-Flop Syndrome",
+        "Split-Brain",
+        "Blind Sight"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "8",
+        "16",
+        "32"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "What is an alternative name for multiple personality disorder?",
+      "correct_answer": "Dissociative identity disorder",
+      "incorrect_answers": [
+        "Body integrity identity disorder",
+        "Identity crisis",
+        "Schizophrenia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "What is Hypernatremia?",
+      "correct_answer": "Increase in blood sodium",
+      "incorrect_answers": [
+        "Decrease in blood potassium",
+        "Increase in blood glucose",
+        "Decrease in blood iron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "On the periodic table of elements, what is the symbol for Tin?",
+      "correct_answer": "Sn",
+      "incorrect_answers": [
+        "Ti",
+        "Ni",
+        "Na"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "What was the first living creature in space?",
+      "correct_answer": "Fruit Flies ",
+      "incorrect_answers": [
+        "Monkey",
+        "Dog",
+        "Mouse"
+      ]
+    }
+  ]
+}
